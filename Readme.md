@@ -1,5 +1,5 @@
 👋 Hi there.I'm Abdul Basit,
-:pill: My interest lie in learning math, programming, data science, and read about new technologies
+:pill: My interest lie in math, programming, data science, and read about new technologies
 :bulb: I’m currently Working on **Breast Cancer** detection as of my Final year project 
 
 <!---
