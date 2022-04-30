@@ -1,8 +1,6 @@
 👋 Hi there.I'm Abdul Basit,
 :pill: My interest lie in learning math, programming, data science, and read about new technologies
-🌱 I’m currently learning 
-💞️ I’m looking to collaborate on ...
-📫 How to reach me ...
+:bulb: I’m currently Working on **Breast Cancer** detection as of my Final year project 
 
 <!---
 Basit-Arif/Basit-Arif is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
