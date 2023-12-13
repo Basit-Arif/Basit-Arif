@@ -1,5 +1,5 @@
 👋 Hi there.I'm Abdul Basit,
-:pill: My interest lie in math, programming, data science, and read about new technologies
+: My interest lie in math, programming, data science, and read about new technologies
  
 
 <!---
